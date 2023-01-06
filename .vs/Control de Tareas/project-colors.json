@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "08f3db04-8e3b-4d0c-9e14-d29ca950b76e": {
+      "ProjectGuid": "08f3db04-8e3b-4d0c-9e14-d29ca950b76e",
+      "DisplayName": "Control de Tareas",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

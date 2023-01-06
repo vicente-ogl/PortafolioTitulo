@@ -1,0 +1,132 @@
+C:\Users\Vicente\Desktop\Duoc\Minería de Datos\mineria2022-main\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\Control de Tareas.exe.config
+C:\Users\Vicente\Desktop\Duoc\Minería de Datos\mineria2022-main\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\Control de Tareas.exe
+C:\Users\Vicente\Desktop\Duoc\Minería de Datos\mineria2022-main\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\Control de Tareas.pdb
+C:\Users\Vicente\Desktop\Duoc\Minería de Datos\mineria2022-main\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Vicente\Desktop\Duoc\Minería de Datos\mineria2022-main\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\Google.Protobuf.dll
+C:\Users\Vicente\Desktop\Duoc\Minería de Datos\mineria2022-main\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Vicente\Desktop\Duoc\Minería de Datos\mineria2022-main\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Vicente\Desktop\Duoc\Minería de Datos\mineria2022-main\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Vicente\Desktop\Duoc\Minería de Datos\mineria2022-main\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\MaterialDesignColors.dll
+C:\Users\Vicente\Desktop\Duoc\Minería de Datos\mineria2022-main\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Vicente\Desktop\Duoc\Minería de Datos\mineria2022-main\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\MySql.Data.dll
+C:\Users\Vicente\Desktop\Duoc\Minería de Datos\mineria2022-main\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\MySqlConnector.dll
+C:\Users\Vicente\Desktop\Duoc\Minería de Datos\mineria2022-main\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\System.Buffers.dll
+C:\Users\Vicente\Desktop\Duoc\Minería de Datos\mineria2022-main\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Vicente\Desktop\Duoc\Minería de Datos\mineria2022-main\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\System.Memory.dll
+C:\Users\Vicente\Desktop\Duoc\Minería de Datos\mineria2022-main\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Vicente\Desktop\Duoc\Minería de Datos\mineria2022-main\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Vicente\Desktop\Duoc\Minería de Datos\mineria2022-main\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Vicente\Desktop\Duoc\Minería de Datos\mineria2022-main\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Vicente\Desktop\Duoc\Minería de Datos\mineria2022-main\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\ZstdNet.dll
+C:\Users\Vicente\Desktop\Duoc\Minería de Datos\mineria2022-main\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Vicente\Desktop\Duoc\Minería de Datos\mineria2022-main\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\Google.Protobuf.pdb
+C:\Users\Vicente\Desktop\Duoc\Minería de Datos\mineria2022-main\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\Google.Protobuf.xml
+C:\Users\Vicente\Desktop\Duoc\Minería de Datos\mineria2022-main\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Vicente\Desktop\Duoc\Minería de Datos\mineria2022-main\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Vicente\Desktop\Duoc\Minería de Datos\mineria2022-main\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Vicente\Desktop\Duoc\Minería de Datos\mineria2022-main\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Vicente\Desktop\Duoc\Minería de Datos\mineria2022-main\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Vicente\Desktop\Duoc\Minería de Datos\mineria2022-main\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Vicente\Desktop\Duoc\Minería de Datos\mineria2022-main\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\MySql.Data.xml
+C:\Users\Vicente\Desktop\Duoc\Minería de Datos\mineria2022-main\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\MySqlConnector.xml
+C:\Users\Vicente\Desktop\Duoc\Minería de Datos\mineria2022-main\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\System.Buffers.xml
+C:\Users\Vicente\Desktop\Duoc\Minería de Datos\mineria2022-main\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Vicente\Desktop\Duoc\Minería de Datos\mineria2022-main\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\System.Memory.xml
+C:\Users\Vicente\Desktop\Duoc\Minería de Datos\mineria2022-main\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Vicente\Desktop\Duoc\Minería de Datos\mineria2022-main\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Vicente\Desktop\Duoc\Minería de Datos\mineria2022-main\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Vicente\Desktop\Duoc\Minería de Datos\mineria2022-main\portafolio-escritorio\Control de Tareas\Control de Tareas\obj\Debug\Control de Tareas.csproj.AssemblyReference.cache
+C:\Users\Vicente\Desktop\Duoc\Minería de Datos\mineria2022-main\portafolio-escritorio\Control de Tareas\Control de Tareas\obj\Debug\Control de Tareas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vicente\Desktop\Duoc\Minería de Datos\mineria2022-main\portafolio-escritorio\Control de Tareas\Control de Tareas\obj\Debug\Dashboard.g.cs
+C:\Users\Vicente\Desktop\Duoc\Minería de Datos\mineria2022-main\portafolio-escritorio\Control de Tareas\Control de Tareas\obj\Debug\MainWindow.g.cs
+C:\Users\Vicente\Desktop\Duoc\Minería de Datos\mineria2022-main\portafolio-escritorio\Control de Tareas\Control de Tareas\obj\Debug\NegocioSeleccionado.g.cs
+C:\Users\Vicente\Desktop\Duoc\Minería de Datos\mineria2022-main\portafolio-escritorio\Control de Tareas\Control de Tareas\obj\Debug\App.g.cs
+C:\Users\Vicente\Desktop\Duoc\Minería de Datos\mineria2022-main\portafolio-escritorio\Control de Tareas\Control de Tareas\obj\Debug\Control de Tareas_Content.g.cs
+C:\Users\Vicente\Desktop\Duoc\Minería de Datos\mineria2022-main\portafolio-escritorio\Control de Tareas\Control de Tareas\obj\Debug\Control de Tareas_MarkupCompile.cache
+C:\Users\Vicente\Desktop\Duoc\Minería de Datos\mineria2022-main\portafolio-escritorio\Control de Tareas\Control de Tareas\obj\Debug\Control de Tareas_MarkupCompile.lref
+C:\Users\Vicente\Desktop\Duoc\Minería de Datos\mineria2022-main\portafolio-escritorio\Control de Tareas\Control de Tareas\obj\Debug\App.baml
+C:\Users\Vicente\Desktop\Duoc\Minería de Datos\mineria2022-main\portafolio-escritorio\Control de Tareas\Control de Tareas\obj\Debug\Dashboard.baml
+C:\Users\Vicente\Desktop\Duoc\Minería de Datos\mineria2022-main\portafolio-escritorio\Control de Tareas\Control de Tareas\obj\Debug\MainWindow.baml
+C:\Users\Vicente\Desktop\Duoc\Minería de Datos\mineria2022-main\portafolio-escritorio\Control de Tareas\Control de Tareas\obj\Debug\NegocioSeleccionado.baml
+C:\Users\Vicente\Desktop\Duoc\Minería de Datos\mineria2022-main\portafolio-escritorio\Control de Tareas\Control de Tareas\obj\Debug\Control de Tareas.g.resources
+C:\Users\Vicente\Desktop\Duoc\Minería de Datos\mineria2022-main\portafolio-escritorio\Control de Tareas\Control de Tareas\obj\Debug\Control_de_Tareas.Properties.Resources.resources
+C:\Users\Vicente\Desktop\Duoc\Minería de Datos\mineria2022-main\portafolio-escritorio\Control de Tareas\Control de Tareas\obj\Debug\Control de Tareas.csproj.GenerateResource.cache
+C:\Users\Vicente\Desktop\Duoc\Minería de Datos\mineria2022-main\portafolio-escritorio\Control de Tareas\Control de Tareas\obj\Debug\Control de Tareas.csproj.CoreCompileInputs.cache
+C:\Users\Vicente\Desktop\Duoc\Minería de Datos\mineria2022-main\portafolio-escritorio\Control de Tareas\Control de Tareas\obj\Debug\Control de Tareas.csproj.CopyComplete
+C:\Users\Vicente\Desktop\Duoc\Minería de Datos\mineria2022-main\portafolio-escritorio\Control de Tareas\Control de Tareas\obj\Debug\Control de Tareas.exe
+C:\Users\Vicente\Desktop\Duoc\Minería de Datos\mineria2022-main\portafolio-escritorio\Control de Tareas\Control de Tareas\obj\Debug\Control de Tareas.pdb
+C:\Users\Vicente\Desktop\Duoc\Minería de Datos\mineria2022-main\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Vicente\Desktop\Duoc\Minería de Datos\mineria2022-main\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Vicente\Desktop\Duoc\Minería de Datos\mineria2022-main\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Vicente\Desktop\Duoc\Minería de Datos\mineria2022-main\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\System.Text.Json.dll
+C:\Users\Vicente\Desktop\Duoc\Minería de Datos\mineria2022-main\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\System.ValueTuple.dll
+C:\Users\Vicente\Desktop\Duoc\Minería de Datos\mineria2022-main\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Vicente\Desktop\Duoc\Minería de Datos\mineria2022-main\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Vicente\Desktop\Duoc\Minería de Datos\mineria2022-main\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\System.Text.Json.xml
+C:\Users\Vicente\Desktop\Duoc\Minería de Datos\mineria2022-main\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\System.ValueTuple.xml
+E:\Portafolio\Control de Tareas - Escritorio\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\Control de Tareas.exe.config
+E:\Portafolio\Control de Tareas - Escritorio\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\Control de Tareas.exe
+E:\Portafolio\Control de Tareas - Escritorio\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\Control de Tareas.pdb
+E:\Portafolio\Control de Tareas - Escritorio\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\BouncyCastle.Crypto.dll
+E:\Portafolio\Control de Tareas - Escritorio\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\Google.Protobuf.dll
+E:\Portafolio\Control de Tareas - Escritorio\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\K4os.Compression.LZ4.dll
+E:\Portafolio\Control de Tareas - Escritorio\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Portafolio\Control de Tareas - Escritorio\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\K4os.Hash.xxHash.dll
+E:\Portafolio\Control de Tareas - Escritorio\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\MaterialDesignColors.dll
+E:\Portafolio\Control de Tareas - Escritorio\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\Portafolio\Control de Tareas - Escritorio\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Portafolio\Control de Tareas - Escritorio\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\MySql.Data.dll
+E:\Portafolio\Control de Tareas - Escritorio\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\MySqlConnector.dll
+E:\Portafolio\Control de Tareas - Escritorio\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\Portafolio\Control de Tareas - Escritorio\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\System.Buffers.dll
+E:\Portafolio\Control de Tareas - Escritorio\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Portafolio\Control de Tareas - Escritorio\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\System.Memory.dll
+E:\Portafolio\Control de Tareas - Escritorio\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\System.Numerics.Vectors.dll
+E:\Portafolio\Control de Tareas - Escritorio\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Portafolio\Control de Tareas - Escritorio\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\System.Text.Encodings.Web.dll
+E:\Portafolio\Control de Tareas - Escritorio\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\System.Text.Json.dll
+E:\Portafolio\Control de Tareas - Escritorio\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Portafolio\Control de Tareas - Escritorio\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\System.ValueTuple.dll
+E:\Portafolio\Control de Tareas - Escritorio\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\Ubiety.Dns.Core.dll
+E:\Portafolio\Control de Tareas - Escritorio\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\ZstdNet.dll
+E:\Portafolio\Control de Tareas - Escritorio\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\BouncyCastle.Crypto.xml
+E:\Portafolio\Control de Tareas - Escritorio\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\Google.Protobuf.pdb
+E:\Portafolio\Control de Tareas - Escritorio\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\Google.Protobuf.xml
+E:\Portafolio\Control de Tareas - Escritorio\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\K4os.Compression.LZ4.xml
+E:\Portafolio\Control de Tareas - Escritorio\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Portafolio\Control de Tareas - Escritorio\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\K4os.Hash.xxHash.xml
+E:\Portafolio\Control de Tareas - Escritorio\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\MaterialDesignColors.pdb
+E:\Portafolio\Control de Tareas - Escritorio\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\Portafolio\Control de Tareas - Escritorio\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\Portafolio\Control de Tareas - Escritorio\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Portafolio\Control de Tareas - Escritorio\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\MySql.Data.xml
+E:\Portafolio\Control de Tareas - Escritorio\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\MySqlConnector.xml
+E:\Portafolio\Control de Tareas - Escritorio\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\System.Buffers.xml
+E:\Portafolio\Control de Tareas - Escritorio\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Portafolio\Control de Tareas - Escritorio\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\System.Memory.xml
+E:\Portafolio\Control de Tareas - Escritorio\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\System.Numerics.Vectors.xml
+E:\Portafolio\Control de Tareas - Escritorio\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Portafolio\Control de Tareas - Escritorio\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\System.Text.Encodings.Web.xml
+E:\Portafolio\Control de Tareas - Escritorio\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\System.Text.Json.xml
+E:\Portafolio\Control de Tareas - Escritorio\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Portafolio\Control de Tareas - Escritorio\portafolio-escritorio\Control de Tareas\Control de Tareas\bin\Debug\System.ValueTuple.xml
+E:\Portafolio\Control de Tareas - Escritorio\portafolio-escritorio\Control de Tareas\Control de Tareas\obj\Debug\Control de Tareas.csproj.AssemblyReference.cache
+E:\Portafolio\Control de Tareas - Escritorio\portafolio-escritorio\Control de Tareas\Control de Tareas\obj\Debug\Control de Tareas.csproj.SuggestedBindingRedirects.cache
+E:\Portafolio\Control de Tareas - Escritorio\portafolio-escritorio\Control de Tareas\Control de Tareas\obj\Debug\Dashboard.g.cs
+E:\Portafolio\Control de Tareas - Escritorio\portafolio-escritorio\Control de Tareas\Control de Tareas\obj\Debug\MainWindow.g.cs
+E:\Portafolio\Control de Tareas - Escritorio\portafolio-escritorio\Control de Tareas\Control de Tareas\obj\Debug\NegocioSeleccionado.g.cs
+E:\Portafolio\Control de Tareas - Escritorio\portafolio-escritorio\Control de Tareas\Control de Tareas\obj\Debug\App.g.cs
+E:\Portafolio\Control de Tareas - Escritorio\portafolio-escritorio\Control de Tareas\Control de Tareas\obj\Debug\Control de Tareas_Content.g.cs
+E:\Portafolio\Control de Tareas - Escritorio\portafolio-escritorio\Control de Tareas\Control de Tareas\obj\Debug\Control de Tareas_MarkupCompile.cache
+E:\Portafolio\Control de Tareas - Escritorio\portafolio-escritorio\Control de Tareas\Control de Tareas\obj\Debug\Control de Tareas_MarkupCompile.lref
+E:\Portafolio\Control de Tareas - Escritorio\portafolio-escritorio\Control de Tareas\Control de Tareas\obj\Debug\App.baml
+E:\Portafolio\Control de Tareas - Escritorio\portafolio-escritorio\Control de Tareas\Control de Tareas\obj\Debug\Dashboard.baml
+E:\Portafolio\Control de Tareas - Escritorio\portafolio-escritorio\Control de Tareas\Control de Tareas\obj\Debug\MainWindow.baml
+E:\Portafolio\Control de Tareas - Escritorio\portafolio-escritorio\Control de Tareas\Control de Tareas\obj\Debug\NegocioSeleccionado.baml
+E:\Portafolio\Control de Tareas - Escritorio\portafolio-escritorio\Control de Tareas\Control de Tareas\obj\Debug\Control de Tareas.g.resources
+E:\Portafolio\Control de Tareas - Escritorio\portafolio-escritorio\Control de Tareas\Control de Tareas\obj\Debug\Control_de_Tareas.Properties.Resources.resources
+E:\Portafolio\Control de Tareas - Escritorio\portafolio-escritorio\Control de Tareas\Control de Tareas\obj\Debug\Control de Tareas.csproj.GenerateResource.cache
+E:\Portafolio\Control de Tareas - Escritorio\portafolio-escritorio\Control de Tareas\Control de Tareas\obj\Debug\Control de Tareas.csproj.CoreCompileInputs.cache
+E:\Portafolio\Control de Tareas - Escritorio\portafolio-escritorio\Control de Tareas\Control de Tareas\obj\Debug\Control de Tareas.csproj.CopyComplete
+E:\Portafolio\Control de Tareas - Escritorio\portafolio-escritorio\Control de Tareas\Control de Tareas\obj\Debug\Control de Tareas.exe
+E:\Portafolio\Control de Tareas - Escritorio\portafolio-escritorio\Control de Tareas\Control de Tareas\obj\Debug\Control de Tareas.pdb
